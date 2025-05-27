@@ -12,6 +12,12 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=raulskat&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=raulskat&theme=dracula&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=raulskat&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
@@ -20,5 +26,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=raulskat&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
